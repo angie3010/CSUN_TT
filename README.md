@@ -1,2 +1,2 @@
 # CSUN_TT
-Tidey Tuesdays
+Tidy Tuesdays
